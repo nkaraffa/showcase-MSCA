@@ -1,0 +1,10 @@
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\bin\Debug\Extra Work - Week6Day1.exe.config
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\bin\Debug\Extra Work - Week6Day1.exe
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\bin\Debug\Extra Work - Week6Day1.pdb
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\obj\Debug\Extra Work - Week6Day1.csprojAssemblyReference.cache
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\obj\Debug\Extra_Work___Week6Day1.UserForm.resources
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\obj\Debug\Extra_Work___Week6Day1.Properties.Resources.resources
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\obj\Debug\Extra Work - Week6Day1.csproj.GenerateResource.cache
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\obj\Debug\Extra Work - Week6Day1.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\obj\Debug\Extra Work - Week6Day1.exe
+C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\Extra Work - Week6Day1\obj\Debug\Extra Work - Week6Day1.pdb
