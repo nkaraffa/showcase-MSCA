@@ -9,3 +9,4 @@ Contents:
   - Variable Instantiation
   - Class Creation
 - Windows Forms Applications
+- Serialization
