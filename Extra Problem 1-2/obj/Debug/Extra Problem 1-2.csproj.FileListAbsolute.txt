@@ -1,0 +1,7 @@
+E:\10975Allfiles\Extra Work\Extra Work - Day 1\Extra Problem 1-2\Extra Problem 1-2\bin\Debug\Extra Problem 1-2.exe.config
+E:\10975Allfiles\Extra Work\Extra Work - Day 1\Extra Problem 1-2\Extra Problem 1-2\bin\Debug\Extra Problem 1-2.exe
+E:\10975Allfiles\Extra Work\Extra Work - Day 1\Extra Problem 1-2\Extra Problem 1-2\bin\Debug\Extra Problem 1-2.pdb
+E:\10975Allfiles\Extra Work\Extra Work - Day 1\Extra Problem 1-2\Extra Problem 1-2\obj\Debug\Extra Problem 1-2.csprojAssemblyReference.cache
+E:\10975Allfiles\Extra Work\Extra Work - Day 1\Extra Problem 1-2\Extra Problem 1-2\obj\Debug\Extra Problem 1-2.csproj.CoreCompileInputs.cache
+E:\10975Allfiles\Extra Work\Extra Work - Day 1\Extra Problem 1-2\Extra Problem 1-2\obj\Debug\Extra Problem 1-2.exe
+E:\10975Allfiles\Extra Work\Extra Work - Day 1\Extra Problem 1-2\Extra Problem 1-2\obj\Debug\Extra Problem 1-2.pdb
