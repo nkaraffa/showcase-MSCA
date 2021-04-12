@@ -10,5 +10,6 @@ Contents:
   - Arrays
   - Arthimetic
   - Class Creation
+  - Inheritance & Note printing
 - Windows Forms Applications
 - Serialization
