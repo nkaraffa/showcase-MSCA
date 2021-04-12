@@ -1,0 +1,7 @@
+E:\10975Allfiles\Extra Work\Extra Work Day6 - 3MAR\bin\Debug\Extra Work Day6 - 3MAR.exe.config
+E:\10975Allfiles\Extra Work\Extra Work Day6 - 3MAR\bin\Debug\Extra Work Day6 - 3MAR.exe
+E:\10975Allfiles\Extra Work\Extra Work Day6 - 3MAR\bin\Debug\Extra Work Day6 - 3MAR.pdb
+E:\10975Allfiles\Extra Work\Extra Work Day6 - 3MAR\obj\Debug\Extra Work Day6 - 3MAR.csprojAssemblyReference.cache
+E:\10975Allfiles\Extra Work\Extra Work Day6 - 3MAR\obj\Debug\Extra Work Day6 - 3MAR.csproj.CoreCompileInputs.cache
+E:\10975Allfiles\Extra Work\Extra Work Day6 - 3MAR\obj\Debug\Extra Work Day6 - 3MAR.exe
+E:\10975Allfiles\Extra Work\Extra Work Day6 - 3MAR\obj\Debug\Extra Work Day6 - 3MAR.pdb
