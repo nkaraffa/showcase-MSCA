@@ -1,7 +1,0 @@
-C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\ExtraWork - 24MAR\bin\Debug\ExtraWork - 24MAR.exe.config
-C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\ExtraWork - 24MAR\bin\Debug\ExtraWork - 24MAR.exe
-C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\ExtraWork - 24MAR\bin\Debug\ExtraWork - 24MAR.pdb
-C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\ExtraWork - 24MAR\obj\Debug\ExtraWork - 24MAR.csprojAssemblyReference.cache
-C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\ExtraWork - 24MAR\obj\Debug\ExtraWork - 24MAR.csproj.CoreCompileInputs.cache
-C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\ExtraWork - 24MAR\obj\Debug\ExtraWork - 24MAR.exe
-C:\Users\Nik\Desktop\Coding\MSCA - Extra Work\ExtraWork - 24MAR\obj\Debug\ExtraWork - 24MAR.pdb
