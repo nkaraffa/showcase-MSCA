@@ -7,6 +7,7 @@ _________
 Contents:
 - Basics
   - Variable Instantiation
+  - Arrays
   - Class Creation
 - Windows Forms Applications
 - Serialization
