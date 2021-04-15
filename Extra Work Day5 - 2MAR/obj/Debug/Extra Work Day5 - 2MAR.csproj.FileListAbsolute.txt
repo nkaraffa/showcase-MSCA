@@ -1,0 +1,7 @@
+E:\10975Allfiles\Extra Work\Extra Work Day5 - 2MAR\bin\Debug\Extra Work Day5 - 2MAR.exe.config
+E:\10975Allfiles\Extra Work\Extra Work Day5 - 2MAR\bin\Debug\Extra Work Day5 - 2MAR.exe
+E:\10975Allfiles\Extra Work\Extra Work Day5 - 2MAR\bin\Debug\Extra Work Day5 - 2MAR.pdb
+E:\10975Allfiles\Extra Work\Extra Work Day5 - 2MAR\obj\Debug\Extra Work Day5 - 2MAR.csprojAssemblyReference.cache
+E:\10975Allfiles\Extra Work\Extra Work Day5 - 2MAR\obj\Debug\Extra Work Day5 - 2MAR.csproj.CoreCompileInputs.cache
+E:\10975Allfiles\Extra Work\Extra Work Day5 - 2MAR\obj\Debug\Extra Work Day5 - 2MAR.exe
+E:\10975Allfiles\Extra Work\Extra Work Day5 - 2MAR\obj\Debug\Extra Work Day5 - 2MAR.pdb
