@@ -9,6 +9,7 @@ Contents:
   - Variable Instantiation
   - Arrays
   - Arthimetic
+  - Method Calls (+ switch cases)
   - Class Creation
   - Inheritance & Note printing
 - Windows Forms Applications
